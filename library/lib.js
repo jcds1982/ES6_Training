@@ -48,3 +48,7 @@ function butter(...z) {
     let a = [1, 2, 3, ...z];
     return a;
 }
+
+function showMessage(anotherParamater){
+    alert(anotherParamater);
+}
